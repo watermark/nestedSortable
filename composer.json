@@ -1,0 +1,16 @@
+{
+	"name": "ilikenwf/nestedSortable",
+	"description": "Nested Sortable for jQuery ui",
+	"type": "component",
+	"require": {
+		"php": ">=5.3.0",
+		"robloach/component-installer": "*"
+	},
+	"extra": {
+		"component": {
+			"scripts": [
+				"jquery.mjs.nestedSortable.js"
+			]
+		}
+	}
+}
